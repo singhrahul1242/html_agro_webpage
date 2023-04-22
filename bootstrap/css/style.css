@@ -1,0 +1,295 @@
+/*navbar start*/
+body img{
+  max-width: 100%;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #009f4d;
+  z-index: 9999;
+  border: 0;
+  font-size: 18px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+  color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: green !important;
+  background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #fff !important;
+}
+/*navbar end*/
+
+.carousel-inner img{
+	height: 400px;
+}
+
+.botton-style{
+padding: 15px 40px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border: 2px solid #ccc;
+    background: none;
+    display: inline-block;
+}
+
+h3.heading {
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.about{
+  padding: 20px 20px 20px 20px;
+}
+
+.about .py-md-4{
+  padding: 70px 0px 70px 0px;
+}
+
+.about .py-md-4 .mb-4{
+  padding: 0px 0px 35px 0px;
+}
+
+.about p{
+    margin: 0;
+    font-size: 17px;
+    line-height: 2em;
+    letter-spacing: 2px;
+    color: #707579;
+    font-weight: 600;
+}
+
+.about p.about-text {
+    width: 100%;
+}
+
+.f-icon{
+    color: white;
+    vertical-align: middle;
+    background: #009f4d;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin: 0.5em auto 0;
+    border-radius: 50%;
+}
+
+.bg-green {
+    background-color: #009f4d;
+    padding: 100px 100px 100px 100px;
+    text-align: center;
+
+  }
+
+.bg-green .text-center{
+    font-size: 50px;
+    color: white;
+    padding-bottom: 55px; 
+}
+
+.row .col-sm-2 i{
+  font-size: 30px;
+   color: yellow;
+  padding: 20px 20px 20px 20px;
+}
+.row .col-sm-2 .my-3{
+   font-size: 24px;
+   color: white;
+}
+
+.row .col-sm-2 p{
+  font-size: 18px;
+   color:  #e6e6e6;
+    line-height: 2em;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.py-5{
+  padding: 75px 0px 75px 0px;
+}
+
+.py-5 .mb-4{
+  padding: 0px 0px 72px 0px;
+}
+
+.py-5 .col-lg-6 .mt-4{
+      font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.py-5 .col-lg-6 .mt-3{
+    font-size: 17px;
+    line-height: 2em;
+    letter-spacing: 2px;
+    color: #707579;
+    font-weight: 600;
+}
+
+/*.py-5{
+    background: url(leaf.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+}*/
+
+.bg-3 { 
+    padding: 50px 0px 50px 0px;
+    background-color: #ebe9e4;
+    color: #555555;
+  }
+
+  .bg-3 h3{
+    font-size: 32px;
+    line-height: 2em;
+    letter-spacing: 2px;
+    color: black;
+    font-weight: 600;
+  }
+  .bg-3 p{
+     font-size: 17px;
+    line-height: 2em;
+    letter-spacing: 2px;
+    color: #707579;
+    font-weight: 600;
+  }
+
+
+  .py-6{
+    padding: 80px 0px 80px 0px;
+  }
+  .py-6 .container{
+    color: white;
+    padding: 40px 40px 40px 40px;
+    background-color: green;
+   /* background-image: url('../images/leaf.jpg');*/
+  }
+
+  .py-6 .container p{
+    font-size: 17px;
+    line-height: 2em;
+    letter-spacing: 2px;
+    color: white;
+    font-weight: 600;
+  }
+
+.py-6 .container .row .mr-3{
+  padding: 10px 10px 10px 10px;
+  background-color: #ebcd30;
+  border: 2px solid #ebcd30;
+  padding: 10px 20px;
+  display: inline-block;
+  color: black;
+  font-family:  'Sansita Swashed', cursive;
+} 
+
+.py-6 .container .row .mr-3:hover{
+  background-color: transparent;
+  color:  white;
+  border: 2px solid #ebcd30;
+}
+
+.py-6 .container .row .btn1{
+  padding: 10px 10px 10px 10px;
+  background-color: #21c43c;
+  border: 2px solid #21c43c;
+  padding: 10px 20px;
+  display: inline-block;
+  color: black;
+  font-family:  'Sansita Swashed', cursive;
+} 
+
+.py-6 .container .row .btn1:hover{
+  background-color: transparent;
+  color:  white;
+  border: 2px solid #21c43c;
+}
+
+
+/*footer*/
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section {
+  background: #151414;
+  position: relative;
+  align-content: center;
+}
+.footer-cta {
+  border-bottom: 2px solid green;
+  padding-bottom: 20px;
+}
+.single-cta i {
+  color: yellow ;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+
+.copyright-area{
+  background: #202020;
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p a{
+  color: green;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover a{
+  color: green;
+  text-decoration: none;
+}
+.footer-menu li a {
+  font-size: 14px;
+  color: #878787;
+}
+/*footer end*/
+
+.move-top a{
+    width: 34px;
+    height: 34px;
+    background: url(../images/move-top.png) no-repeat;
+    display: inline-block;
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+    z-index: 0;
+}
